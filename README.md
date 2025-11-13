@@ -7,7 +7,6 @@ Currently studying at Heriot-Watt University, Edinburgh, Scotland, UK.
 
 ## 👨‍💻 About Me
 
-- **Passionate Full Stack Developer** with a strong interest in building scalable web applications.
 - Exploring the world of **Data Science**—from analytics to machine learning.
 - Enthusiast in **Finance Technology, Investment Banking, and Quantitative Research**.
 - Always eager to learn and collaborate on innovative projects.
